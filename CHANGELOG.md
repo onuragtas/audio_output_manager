@@ -1,10 +1,7 @@
+## 0.0.1
 
----
+-   upgrade to null safety
+-   solve switch audio to speaker issue
 
-## 📋 3. `CHANGELOG.md`
-
-```md
-## 1.0.0
-
-- Initial release
-- Supports Android and iOS
+## 1.0.1
+-   fix bug 
