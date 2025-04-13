@@ -1,6 +1,6 @@
 name: audio_output_manager
 description: The advanced_audio_manager listens to, gets and modifies audio input/output devices.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/onuragtas/audio_output_manager
 
 environment:
