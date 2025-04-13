@@ -82,7 +82,6 @@ class FlutterAudioManager {
   }
 
   static Future<void> _methodHandle(MethodCall call) async {
-    if (_onInputChanged == null) return;
     switch (call.method) {
       case "inputChanged":
         return _onInputChanged();
